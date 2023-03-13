@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '1.0.0'
 DESCRIPTION = 'A package for simple deployment of Google cloud instance groups'
 
 # Setting up
