@@ -10,6 +10,7 @@ setup(
     author="Cabe Towers",
     author_email="<cabe.towers@gmail.com>",
     description=DESCRIPTION,
+    long_description=DESCRIPTION,
     packages=find_packages(),
     install_requires=['google-cloud-compute'],
     keywords=['python', 'google-cloud', 'google-cloud-compute'],
