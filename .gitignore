@@ -2,3 +2,5 @@ dist/
 venv/
 .idea/
 build/
+
+simplegcd.egg-info/
